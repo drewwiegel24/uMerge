@@ -1,0 +1,6 @@
+*.json
+*.pkl
+*.embeddings
+*_df*
+*.pyc
+*.txt
